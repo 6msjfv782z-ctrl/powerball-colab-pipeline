@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+pandas
+numpy
+tqdm
+deap
+pulp
